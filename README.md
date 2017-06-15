@@ -116,7 +116,7 @@ jboss-cli.bat --file={rg-archetype-j2ee-myfaces home}\Resources\jboss-add-securi
 
 #### Wildfly MyFaces Configuration
 
-See the [following link](http://gwnio.github.io/gwnio-page/tech/2017/06/14/wildfly-jsf-configuration-myfaces.html){:target="_blank"} for adding MyFaces JSF implementation to Wildfly JSF subsystem.
+See the [following link](http://gwnio.github.io/gwnio-page/tech/2017/06/14/wildfly-jsf-configuration-myfaces.html) for adding MyFaces JSF implementation to Wildfly JSF subsystem.
 
 Note for this project you do not need to change Wildfly's default JSF implementation because the web.xml specifies the JSF implementation.
 
